@@ -37,8 +37,6 @@ Spotify.Searcher.prototype.artist_search = function(search_url) {
 
 $(document).on("ready", function() {
 
-  $(".js-modal").modal("hide");
-
   $("#search").on('click', function() {
 
     var search_val = $('#input-form').val();

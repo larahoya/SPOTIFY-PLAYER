@@ -168,3 +168,7 @@ progress::-moz-progress-bar {
   height: 25px;
   width: 60px;
 }
+
+.js-modal {
+  text-align: center;
+}
